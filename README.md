@@ -7,7 +7,7 @@ To run locally:
 - Deploy the app `python3 deploy.py`
 - Open a web browser and go to `http://localhost:8000`
 
-![Demo](https://i.imgur.com/TGXyavF.gifv)
+![Demo](demo.gif)
 
 Predicts 102 different flowers species. Built for use with a resnet152 model. Applies test time augmentation (tencrop) to increase accuracy.
 
